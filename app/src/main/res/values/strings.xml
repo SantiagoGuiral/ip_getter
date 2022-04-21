@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">IPGetter</string>
+    <string name="ipShow" />
+    <string name="getMyIp">Get my IP</string>
+    <string name="getLocalIp">Get local IP\'s</string>
+    <string name="search">Search Hosts</string>
+    <string name="tv_cardHost">Host:</string>
+    <string name="tv_cardIp">IP Address:</string>
+    <string name="tv_cardMac">Mac Address:</string>
+    <string name="cardHost" />
+    <string name="cardIp" />
+    <string name="cardMac" />
+    <string name="nav_Info">Ping IP\'s</string>
+</resources>

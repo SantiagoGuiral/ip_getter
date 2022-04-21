@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_search"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_search"
+        app:showAsAction="ifRoom"
+        android:title="@string/search"/>
+
+    <item
+        android:id="@+id/nav_myIp"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_wifi_tethering"
+        app:showAsAction="ifRoom"
+        android:title="@string/getMyIp"/>
+
+    <item
+        android:id="@+id/nav_NetworkInfo"
+        android:orderInCategory="100"
+        android:icon="@drawable/ic_phonelink"
+        app:showAsAction="ifRoom"
+        android:title="@string/nav_Info"/>
+
+</menu>
